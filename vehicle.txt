@@ -1,0 +1,5 @@
+1 Car Swift 200 1500 0 2000
+2 Car Skoda 250 1800 1 2500
+3 Bike Pept 80 500 1 1000
+4 Bike Splendor 60 400 1 800
+5 Car Thar 400 3000 1 3000
